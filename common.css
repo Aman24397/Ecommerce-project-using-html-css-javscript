@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.wid-25{
+    width:25%;
+}
+.wid-50{
+    width:50%;
+}
+.common-btn{
+    border: 1px solid #ddd;
+    height: 40px;
+    min-width:50px ;
+    background-color: #fff;
+    text-align: center;
+   color: #D19C97;
+   border-radius: 0;
+   margin-left: 10px;
+}
+
+.common-btn span {
+    font-size: 16px;
+    font-weight: 700;
+    
+}
